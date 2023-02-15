@@ -1,0 +1,30 @@
+#bodypic{ 
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+
+  #loginbox{
+    margin-top: 200px;
+    border:2px solid rgb(58, 91, 88); 
+    padding: 2%;
+
+    
+  }
+  table{
+    /* border-collapse: collapse;  */
+    border-spacing: 0;
+    width: 100%;
+    background-color: rgb(236, 234, 220);
+}
+th, td{
+    padding: 10px 20px;
+    /* border: 1px solid #000; */
+}
+
+#loginbox{
+  height: 200px;
+  width: 200px;
+}
+
+
